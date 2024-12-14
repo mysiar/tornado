@@ -31,6 +31,8 @@ TEST_MODULES = [
     "tornado.test.http1connection_test",
     "tornado.test.httpclient_test",
     "tornado.test.httpserver_test",
+    "tornado.test.httpserver_streamlit1_test",
+    "tornado.test.httpserver_streamlit2_test",
     "tornado.test.httputil_test",
     "tornado.test.import_test",
     "tornado.test.ioloop_test",
